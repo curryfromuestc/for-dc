@@ -8,7 +8,7 @@ import torchvision.transforms as transforms
 
 import medmnist
 from medmnist import INFO, Evaluator
-data_flag = 'pathmnist'
+data_flag = 'breastmnist'
 # data_flag = 'breastmnist'
 download = True
 
