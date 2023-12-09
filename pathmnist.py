@@ -12,7 +12,7 @@ data_flag = 'dermamnist'
 # data_flag = 'breastmnist'
 download = True
 
-NUM_EPOCHS = 3
+NUM_EPOCHS = 5
 BATCH_SIZE = 128
 lr = 0.001
 
